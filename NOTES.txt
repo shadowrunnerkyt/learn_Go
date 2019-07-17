@@ -1,0 +1,3 @@
+Playground: https://play.golang.org/
+
+Information: https://www.golang-book.com/
