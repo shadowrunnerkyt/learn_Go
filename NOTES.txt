@@ -1,3 +1,10 @@
 Playground: https://play.golang.org/
 
 Information: https://www.golang-book.com/
+
+Instructor says don't use Mutex locks, they are error prone; use Defer-Panic-Recover instead, doesn't say why
+
+To install gomobile: [https://godoc.org/golang.org/x/mobile/cmd/gomobile]
+	go get golang.org/x/mobile/cmd/gomobile
+	gomobile init
+	// apparently this doesn't work in windows right now
